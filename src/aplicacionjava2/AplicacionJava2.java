@@ -1,7 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package aplicacionjava2;
 
 /**
@@ -10,10 +7,7 @@ package aplicacionjava2;
  */
 public class AplicacionJava2 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-            System.out.println("Hola");
+            System.out.println("Hola Mundo!!");
     }
 }
